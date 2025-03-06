@@ -1,1 +1,1 @@
-nginx:1.24.0 registry.cn-hangzhou.aliyuncs.com/gkzx2024/nginx:1.24.0
+ubuntu/squid registry.cn-hangzhou.aliyuncs.com/zxyznj/zhouxuanyu/squid:latest
