@@ -1,1 +1,1 @@
-ollama/ollama:latest registry.cn-hangzhou.aliyuncs.com/zxyznj/ollama:latest
+ghcr.io/open-webui/open-webui:main registry.cn-hangzhou.aliyuncs.com/zxyznj/open-webui:main
