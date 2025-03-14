@@ -8,3 +8,4 @@ semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/zxyznj/weavia
 langgenius/dify-sandbox:0.2.10 registry.cn-hangzhou.aliyuncs.com/zxyznj/dify-sandbox:0.2.10
 ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/zxyznj/squid:latest
 nginx:latest registry.cn-hangzhou.aliyuncs.com/zxyznj/nginx:latest
+infiniflow/ragflow:v0.16.0 registry.cn-hangzhou.aliyuncs.com/zxyznj/ragflow:v0.16.0
