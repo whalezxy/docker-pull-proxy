@@ -1,1 +1,1 @@
-docker.rainbond.cc/marqoai/marqo:latest registry.cn-hangzhou.aliyuncs.com/zxyznj/marqo:latest
+marqo:latest registry.cn-hangzhou.aliyuncs.com/zxyznj/marqo:latest
