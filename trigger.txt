@@ -1,1 +1,1 @@
-marqo:latest registry.cn-hangzhou.aliyuncs.com/zxyznj/marqo:latest
+marqoai/marqo:latest registry.cn-hangzhou.aliyuncs.com/zxyznj/marqo:latest
