@@ -1,1 +1,1 @@
-marqoai/marqo:latest registry.cn-hangzhou.aliyuncs.com/zxyznj/marqo:latest
+python:3.10-slim registry.cn-hangzhou.aliyuncs.com/zxyznj/python:3.10-slim
