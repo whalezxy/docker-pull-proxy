@@ -1,1 +1,1 @@
-python:3.10-slim registry.cn-hangzhou.aliyuncs.com/zxyznj/python:3.10-slim
+agentscope/copaw:latest registry.cn-hangzhou.aliyuncs.com/zxyznj/agentscope/copaw:latest
